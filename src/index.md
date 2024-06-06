@@ -1,8 +1,9 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Doug Mellon'
 ---
 
-# Hello World
+# Hello!
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+I am software engineer on the data team at HCG Fund Management developing data intensive, user-friendly, and feature-rich software. My personal time is spent either exploring the mountains of Colorado or dreaming up technical solutions to backcountry safety.
+

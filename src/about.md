@@ -1,14 +1,12 @@
 ---
-title: About Aidan Charles Powell
+title: About Doug Mellon
 layout: about.njk
-name: Aidan Charles Powell
+name: Doug Mellon
 image: '/images/me.jpeg'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+I'm a software engineer living in Denver, Colorado who currently works on the data team at HCG Fund Management.
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+I earned my Bachelor's degree in Software Engineering from the University of Northern Colorado where I also conducted university funded research on the use of autonomous drones in wildfire mitigation - specifically communication among drone clusters.
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
-
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+When not coding, you'll find me exploring the Colorado mountains on skis and bikes with my partner and our dog Juneau, or thinking up ways to enhance backcountry safety through technology.
