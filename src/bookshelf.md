@@ -14,5 +14,4 @@ image: '/images/me.jpeg'
 - Staying Alive in Avalanche Terrain by Bruce Tremper
 - Clean Code by Robert C. Martin
 
-# Articles
-- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+# Articles- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
