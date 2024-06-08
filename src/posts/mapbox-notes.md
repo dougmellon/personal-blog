@@ -2,7 +2,7 @@
 title: Exploring Mapbox - Evolving Notes
 description:  Exploring Mapbox and Mapbox GL
 permalink: posts/{{ title | slug }}/index.html
-date: '2024-06-08'
+date: '2024-06-06'
 tags: [Mapbox, Javascript, Web]
 ---
 
