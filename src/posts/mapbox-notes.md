@@ -1,5 +1,5 @@
 ---
-title: Exploring Mapbox
+title: Exploring Mapbox - Evolving Notes
 description:  Exploring Mapbox and Mapbox GL
 permalink: posts/{{ title | slug }}/index.html
 date: '2024-06-08'
